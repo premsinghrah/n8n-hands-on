@@ -76,4 +76,4 @@ Google Sheets API – Data storage and reporting
 
 UPI / QR Payment Gateway
 
-Webhook-based Architecture
+Webhook-based Architecture.
